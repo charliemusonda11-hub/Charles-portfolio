@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charliemusonda11-hub.github.io/Profile-Portfolio/sitemap.xml
